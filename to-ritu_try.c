@@ -5,7 +5,6 @@
 #include "Motor.h"
 #include "QEI.h"
 
-
 #define THETA_REF    0              //振子の目標値(rad表記)
 #define ZERO_ADV    500             //棒の角度が0になる時のAD値（機体により異なります）
 #define ADV_TO_RAD  0.0046          //
