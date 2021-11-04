@@ -1,4 +1,4 @@
-// 台車の倒立制御
+// 台車の倒立制御hahaha
 
 #include "mbed.h"
 #include "adrobo.h"
