@@ -1,4 +1,4 @@
-// 台車の倒立制御hahaha
+// 台車の倒立制御（P制御）hihihi
 
 #include "mbed.h"
 #include "adrobo.h"
@@ -192,5 +192,4 @@ int main()
         printf("theta_adv:%d duty_ratio:%2.2f \r\n", theta_adv, duty_ratio); //teraterm出力用
         //wait(0.08);
     }
-
 }
